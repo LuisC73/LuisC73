@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Luis Miguel Castro</h1>
+<h1 align="center"> < Luis Miguel Castro /></h1>
 <h3 align="center">A passionate full-stack developer from Colombia</h3>
 
-<p align="center"><img src="https://blog.juandesouza.com/wp-content/uploads/2020/07/juandesouza_frameworks-de-desenvolvedores.jpg" alt="coding" width="700" height="150"/> </p>
+<p align="center"><img src="https://i.pinimg.com/originals/19/13/d0/1913d04ea6a314311dc8ff7b85f6033b.gif" alt="coding" width="200" height="150"/> </p>
 
 
 ```javascript
