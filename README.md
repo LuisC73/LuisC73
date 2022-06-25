@@ -1,7 +1,5 @@
-<h1 align="center"> < Luis Miguel Castro /></h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<p align="center"><img src="https://i.pinimg.com/originals/19/13/d0/1913d04ea6a314311dc8ff7b85f6033b.gif" alt="coding" width="200" height="150"/> </p>
+![me](https://user-images.githubusercontent.com/80079884/175787356-c49b404b-ae59-4247-a014-e434f18eb4d5.jpg)
 
 
 ```javascript
