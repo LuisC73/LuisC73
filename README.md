@@ -12,7 +12,7 @@ const luisMiguel = {
             css: ["Bootstrap", "Sass"]
         },
         backEnd: [".Net", "PHP"],
-        databases: ["MySql", "SqlServer"],
+        databases: ["MySql", "SQLServer"],
     }
 };
 ```
