@@ -11,7 +11,7 @@ const luisMiguel = {
             js: ["React"],
             css: ["Bootstrap", "Sass"]
         },
-        backEnd: [".Net", "PHP"],
+        backEnd: ["C#",".Net", "PHP"],
         databases: ["MySql", "SQLServer"],
     }
 };
