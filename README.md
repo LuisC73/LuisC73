@@ -5,10 +5,10 @@
 ```javascript
 const luisMiguel = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game","music"],
+    askMeAbout: ["web dev", "tech", "games","music"],
     technologies: {
         frontEnd: {
-            js: ["React"],
+            js: ["JQuery","React"],
             css: ["Bootstrap", "Sass"]
         },
         backEnd: ["C#",".Net", "PHP"],
