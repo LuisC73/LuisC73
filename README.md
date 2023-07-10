@@ -8,7 +8,7 @@ const luisMiguel = {
     askMeAbout: ["web dev", "tech", "games","music"],
     technologies: {
         frontEnd: {
-            js: ["JQuery","TypeScript","React"],
+            js: ["JQuery", "TypeScript", "React", "Svelte", "Astro"],
             css: ["Bootstrap", "Sass", "Less", "Stylus", "Tailwind"]
         },
         backEnd: ["C#",".Net", "PHP"],
