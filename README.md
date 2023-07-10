@@ -9,7 +9,7 @@ const luisMiguel = {
     technologies: {
         frontEnd: {
             js: ["JQuery","TypeScript","React"],
-            css: ["Bootstrap", "Sass"]
+            css: ["Bootstrap", "Sass", "Less", "Stylus", "Tailwind"]
         },
         backEnd: ["C#",".Net", "PHP"],
         databases: ["MySql", "SQLServer"],
