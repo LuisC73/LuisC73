@@ -17,7 +17,7 @@ const luisMiguel = {
 <h1 align="left">Hola 👋, Soy Miguel Castro</h1>
 <h3 align="left">Un frontend developer apasionado de Colombia</h3>
 
-<h3 align="left">Contactame:</h3>
+<h3 align="left">Contáctame:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luismiguelcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luismiguelcc" height="30" width="40" /></a>
 </p>
