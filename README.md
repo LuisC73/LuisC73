@@ -16,7 +16,7 @@ const luisMiguel = {
     }
 };
 ```
-- 👨‍💻 Todos mis proyectos disponibles en [https://portafolioluismc.netlify.app/](https://portafolioluismc.netlify.app/)
+- 👨‍💻 Todos mis proyectos disponibles en [https://miguelcastroc.com](https://miguelcastroc.com)
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
