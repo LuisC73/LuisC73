@@ -1,18 +1,15 @@
 
-![me](https://user-images.githubusercontent.com/80079884/175787356-c49b404b-ae59-4247-a014-e434f18eb4d5.jpg)
-
+![Github](https://github.com/user-attachments/assets/bc01254d-934f-4913-b565-10de111fe42d)
 
 ```javascript
 const luisMiguel = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "games","music"],
+    askMeAbout: ["web dev", "web accessibility", "web performance", "design ux/ui", "tech", "games", "music"],
     technologies: {
         frontEnd: {
             js: ["JQuery", "TypeScript", "React", "Svelte", "Astro"],
-            css: ["Bootstrap", "Sass", "Less", "Stylus", "Tailwind"]
+            css: ["Bootstrap", "Sass", "Less", "Stylus", "Tailwind CSS"]
         },
-        backEnd: ["C#",".Net", "PHP"],
-        databases: ["MySql", "SQLServer"],
     }
 };
 ```
