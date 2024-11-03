@@ -15,7 +15,7 @@ const luisMiguel = {
 - 👨‍💻 Todos mis proyectos disponibles en [https://miguelcastroc.com](https://miguelcastroc.com)
 
 <h1 align="left">Hola 👋, Soy Miguel Castro</h1>
-<h3 align="left">Un desarrollador de frontend apasionado de Colombia</h3>
+<h3 align="left">Un frontend developer apasionado de Colombia</h3>
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
