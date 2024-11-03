@@ -1,4 +1,4 @@
-![Github](https://github.com/user-attachments/assets/aeb371c2-f99c-4650-8be8-5370602b6b00)
+![Github](https://github.com/user-attachments/assets/53596721-d4f1-4020-b7f9-40134a10d5dc)
 
 ```javascript
 const luisMiguel = {
