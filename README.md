@@ -15,7 +15,7 @@ const luisMiguel = {
 - 👨‍💻 Todos mis proyectos disponibles en [https://miguelcastroc.com](https://miguelcastroc.com)
 
 <h1 align="left">Hola 👋, Soy Miguel Castro</h1>
-<h3 align="left">Un frontend developer apasionado de Colombia con 2 años de experiencia. Me apasiona crear y diseñar proyectos web utilizando código limpio, cumpliendo con normativas de accesibilidad, optimización y SEO.</h3>
+<p align="left">Un frontend developer apasionado de Colombia con 2 años de experiencia. Me apasiona crear y diseñar proyectos web utilizando código limpio, cumpliendo con normativas de accesibilidad, optimización y SEO.</p>
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
