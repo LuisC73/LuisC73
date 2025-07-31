@@ -6,7 +6,7 @@ const luisMiguel = {
     askMeAbout: ["web dev", "web accessibility", "web performance", "design ux/ui", "tech", "games", "music"],
     technologies: {
         frontEnd: {
-            js: ["JQuery", "TypeScript", "React", "Svelte", "Astro"],
+            js: ["JQuery", "TypeScript", "React", "Next.js", "Svelte", "Astro"],
             css: ["Bootstrap", "Sass", "Less", "Stylus", "Tailwind CSS"]
         },
     }
